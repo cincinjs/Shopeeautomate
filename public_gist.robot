@@ -26,19 +26,19 @@ Create public gist
   Input content
   Save
 
-# Edit existing gist
-#   Login
-#   Click existing gist
-#   Click edit button
+Edit existing gist
+   Login
+   Click existing gist
+   Click edit button
 
-# Delete existing gist
-#   Login
-#   Click existing gist
-#   Click delete button
+Delete existing gist
+   Login
+   Click existing gist
+   Click delete button
 
-# Show list gist
-#   Login
-#   Go to list
+Show list gist
+   Login
+   Go to list
 
 
 *** Keywords ***
