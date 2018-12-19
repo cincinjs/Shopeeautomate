@@ -1,2 +1,1 @@
-# Shopeeautomate
-Shopee Test with robotframework
+Test with robotframework
